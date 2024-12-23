@@ -118,18 +118,6 @@ body {
     
 }
 
-#img1 {
-    border-radius: 1000px;
-    height: 35px;
-    
-    transition: box-shadow 0.2s ease, transform 0.2s ease;
-   
-}
-
-#img1:hover {
-    
-    transform: scale(1.1); 
-}
 
 #Discover{
    text-decoration: underline 4px gold;
@@ -268,57 +256,57 @@ transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
 
 #Northern:hover{
-    box-shadow: -9px 0 10px rgba(255, 251, 0, 0.5), 9px 0 10px rgba(255, 251, 0, 0.5);
+   
     transform: scale(1.1);
     color: rgb(236, 238, 140);
-    border: solid 3px;
+   
 }
 
 #support-button{
     border: none;
-    border-radius: 100px;
-    background-color: black;
+    border-radius: 6px;
+    background: rgba(0, 0, 0, 0.3); 
     
     color: white;
     transition: box-shadow 0.2s ease, transform 0.2s ease;
     margin-right: 10px;
 }
 #support-button:hover{
-    box-shadow: -7px 0 10px rgba(255, 251, 0, 0.5), 7px 0 10px rgba(255, 251, 0, 0.5);
+    background: rgba(0, 0, 0, 0.6); 
     transform: scale(1.1);
-    color: rgb(236, 238, 140);
-    border: solid 3px;
+    color: rgb(255, 255, 255);
+    
 }
 #newsletter-button{
     border: none;
-    border-radius: 100px;
-    background-color: black;
-   
+    border-radius: 6px;
+    background: rgba(0, 0, 0, 0.3); 
+    
     color: white;
     transition: box-shadow 0.2s ease, transform 0.2s ease;
     margin-right: 10px;
 }
 #newsletter-button:hover{
-    box-shadow: -7px 0 10px rgba(255, 251, 0, 0.5), 7px 0 10px rgba(255, 251, 0, 0.5);
+    background: rgba(0, 0, 0, 0.6); 
     transform: scale(1.1);
-    color: rgb(236, 238, 140);
-    border: solid 2px;
+    color: rgb(255, 255, 255);
+    
 }
 #faq-button{
     border: none;
-    border-radius: 100px;
-    background-color: rgb(0, 0, 0);
-    height: 40px;
+    border-radius: 6px;
+    background: rgba(0, 0, 0, 0.3); 
+    
     color: white;
     transition: box-shadow 0.2s ease, transform 0.2s ease;
     margin-right: 10px;
    
 }
 #faq-button:hover{
-    box-shadow: -7px 0 10px rgba(255, 251, 0, 0.5), 7px 0 10px rgba(255, 251, 0, 0.5);
+    background: rgba(0, 0, 0, 0.6); 
     transform: scale(1.1);
-    color: rgb(236, 238, 140);
-    border: solid 2px;
+    color: rgb(255, 255, 255);
+    
 }
 
 #imgset{
