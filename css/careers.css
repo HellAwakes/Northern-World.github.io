@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(8, 3, 36);
+    color: white;
+}
+
+.Career {
+    color: white;
+}
+
+.lua {
+    border: solid 2px;
+    border-width: 1px;
+    padding: 10px; /* Add padding for spacing inside */
+    height: auto; /* Ensure the box fits the content */
+    max-width: 1400px; /* Set a max width to avoid unnecessary stretching */
+    margin: 0 auto; /* Center the box */
+}
+
+.lua h2 {
+    margin-left: 40px;
+}
+
+.lua img {
+    margin-left: 30px;
+    border-radius: 20px;
+    box-shadow: -4px 0 6px rgba(255, 255, 255, 0.5), 4px 0 6px rgba(255, 255, 255, 0.5);
+    width: 120px; /* Reduce image size if it's too large */
+    height: auto;
+}
+
+.lua p {
+    text-align: right;
+    margin-right: 200px; /* Reduce right margin */
+}
+
+.lua button {
+    margin-left: auto;
+    margin-right: 200px; /* Align button closer to content */
+    padding: 10px 20px;
+}
+
+#title {
+    text-align: center;
+    font-size: 60px;
+    text-decoration: 2.5px underline;
+}
+
+#openings {
+    text-align: right;
+    margin-right: 200px;
+    color: lightblue;
+    text-decoration: underline;
+}
+#test {
+    background: #1c1c1c;
+    color: #bfa76f;
+    font-family: 'Cinzel', serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    border: 2px solid #8b5e3c;
+    padding: 12px 30px;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+
+ᚦᛁᛞᚩᚾ
+#f0d18a
+
+⚔
+
+ᛟ⛁
