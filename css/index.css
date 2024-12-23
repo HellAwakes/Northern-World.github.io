@@ -10,7 +10,7 @@ body {
     margin: 0;
 
 
-    background-image: url('../Images/viking\ ship.png'); /* Adjust path as needed */
+    background-image: url('../Images/viking ship.png'); /* Adjust path as needed */
     background-size: cover; /* Ensures the image covers the entire viewport */
     background-position: center; /* Centers the image */
     background-attachment: fixed; /* Keeps the background fixed while scrolling */
