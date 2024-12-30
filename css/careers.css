@@ -53,6 +53,60 @@ body {
 }
 #test {
     background: #1c1c1c;
+    color: #ffffff;
+    font-family: 'Cinzel', serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    border: 2px solid #866bce;
+    padding: 12px 30px;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#luajob{
+    background: #1c1c1c;
+    color: #ffffff;
+    font-family: 'Cinzel', serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    border: 2px solid #866bce;
+    padding: 12px 30px;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#luajob:hover{
+color: #f7e6db;
+background-color: #2f2d70;
+transform: scale(1.1);
+}
+
+#test:hover{
+    color: #f7e6db;
+    background-color: #2f2d70;
+    transform: scale(1.1);
+    }
+
+ᚦᛁᛞᚩᚾ
+#f0d18a
+
+⚔
+
+ᛟ⛁
+
+
+
+/*
+#luajob{
+    background: #1c1c1c;
     color: #bfa76f;
     font-family: 'Cinzel', serif;
     font-size: 16px;
@@ -67,10 +121,9 @@ body {
     transition: all 0.3s ease;
 }
 
-
-ᚦᛁᛞᚩᚾ
-#f0d18a
-
-⚔
-
-ᛟ⛁
+#luajob:hover{
+color: #e47d3d;
+background-color: #7a5d46;
+transform: scale(1.1);
+}
+*/
