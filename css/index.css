@@ -36,9 +36,6 @@ body {
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
     background: linear-gradient(to bottom, #000000, transparent);
 
-
-
-
     
 }
 
@@ -243,69 +240,93 @@ body {
 }
 
 #Northern{
-    width: 150px;
-    
-    border-radius: 10px;
-    background-color: black;
-    color:  white;
-    padding: 6px;
-    margin-right: 30px;
-transition: box-shadow 0.2s ease, transform 0.2s ease;
-
+    background: #1c1c1c;
+    color: #bfa76f;
+    font-family: 'Cinzel', serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    border: 2px solid #8b5e3c;
+    padding: 12px 30px;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    transition: all 0.3s ease;
 
 }
 
 #Northern:hover{
-   
+   border-color: #ffcc00;
     transform: scale(1.1);
-    color: rgb(236, 238, 140);
+    color: rgb(201, 204, 30);
    
 }
 
 #support-button{
-    border: none;
-    border-radius: 6px;
-    background: rgba(0, 0, 0, 0.3); 
-    
-    color: white;
-    transition: box-shadow 0.2s ease, transform 0.2s ease;
-    margin-right: 10px;
-}
+        background: #1c1c1c;
+        color: #bfa76f;
+        font-family: 'Cinzel', serif;
+        font-size: 16px;
+        text-transform: uppercase;
+        border: 2px solid #8b5e3c;
+        padding: 12px 30px;
+        border-radius: 12px;
+        position: relative;
+        overflow: hidden;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+
 #support-button:hover{
     background: rgba(0, 0, 0, 0.6); 
     transform: scale(1.1);
-    color: rgb(255, 255, 255);
+    color: rgb(235, 220, 19);
     
 }
 #newsletter-button{
-    border: none;
-    border-radius: 6px;
-    background: rgba(0, 0, 0, 0.3); 
-    
-    color: white;
-    transition: box-shadow 0.2s ease, transform 0.2s ease;
-    margin-right: 10px;
+    background: #1c1c1c;
+    color: #bfa76f;
+    font-family: 'Cinzel', serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    border: 2px solid #8b5e3c;
+    padding: 12px 30px;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    transition: all 0.3s ease;
 }
+
 #newsletter-button:hover{
     background: rgba(0, 0, 0, 0.6); 
     transform: scale(1.1);
-    color: rgb(255, 255, 255);
+    color: rgb(216, 219, 30);
     
 }
 #faq-button{
-    border: none;
-    border-radius: 6px;
-    background: rgba(0, 0, 0, 0.3); 
-    
-    color: white;
-    transition: box-shadow 0.2s ease, transform 0.2s ease;
-    margin-right: 10px;
+    background: #1c1c1c;
+    color: #bfa76f;
+    font-family: 'Cinzel', serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    border: 2px solid #8b5e3c;
+    padding: 12px 30px;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    transition: all 0.3s ease;
    
 }
 #faq-button:hover{
     background: rgba(0, 0, 0, 0.6); 
     transform: scale(1.1);
-    color: rgb(255, 255, 255);
+    color: rgb(216, 219, 30);
     
 }
 
@@ -361,3 +382,6 @@ transition: box-shadow 0.2s ease, transform 0.2s ease;
     }
 }
 
+.underbuttons button{
+margin-right: 13px;
+}
