@@ -9,11 +9,14 @@ body {
 
 .lua {
     border: solid 2px;
-    border-width: 1px;
+    border-width: 2px;
+    border-color: rgb(88, 87, 87);
     padding: 10px; /* Add padding for spacing inside */
     height: auto; /* Ensure the box fits the content */
     max-width: 1400px; /* Set a max width to avoid unnecessary stretching */
     margin: 0 auto; /* Center the box */
+    background: linear-gradient(to right, darkblue, blue, rgb(1, 42, 56)); 
+    border-radius: 50px;
 }
 
 .lua h2 {
@@ -81,6 +84,8 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     cursor: pointer;
     transition: all 0.3s ease;
+    display: flex;
+    
 }
 
 #luajob:hover{
@@ -93,6 +98,18 @@ transform: scale(1.1);
     color: #f7e6db;
     background-color: #2f2d70;
     transform: scale(1.1);
+    }
+
+
+
+    .highlight {
+        color: #2aceda;
+    }
+
+
+    
+    .highlight2 {
+        color: #2aceda;
     }
 
 ᚦᛁᛞᚩᚾ
