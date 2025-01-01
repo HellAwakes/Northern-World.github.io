@@ -360,6 +360,328 @@ text-decoration: none;
     padding: 10px 20px;
 }
 
+/* frontend developer container*/
+.Frontend {
+    border: solid 2px;
+    border-width: 2px;
+    border-color: rgb(88, 87, 87);
+    padding: 10px;
+   
+    height: auto;
+   
+    max-width: 1400px;
+    
+    margin: 0 auto;
+   
+    background: linear-gradient(to right, darkblue, blue, rgb(1, 42, 56));
+    border-radius: 50px;
+}
+
+.highlight9 {
+    color: #2aceda;
+
+}
+
+.highlight10 {
+    color: #2aceda;
+
+}
+
+#openings4 {
+    text-align: right;
+    margin-right: 200px;
+    color: lightblue;
+    text-decoration: underline;
+}
+
+
+
+#Fronjob {
+    background: #1c1c1c;
+    color: #ffffff;
+    font-family: 'Cinzel', serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    border: 2px solid #866bce;
+   margin-left: auto;
+    margin-right: 200px;
+    padding: 10px 10px;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+width: 99px;
+text-decoration: none;
+}
+
+#Fronjob:hover {
+    color: #f7e6db;
+    background-color: #2f2d70;
+    transform: scale(1.1);
+}
+
+.Frontend h2 {
+    margin-left: 40px;
+}
+
+.Frontend p {
+    text-align: right;
+    margin-right: 200px;
+   
+}
+
+.Frontend button {
+    margin-left: auto;
+    margin-right: 200px;
+    
+    padding: 10px 20px;
+}
+
+
+/* backend developer container*/
+.backend {
+    border: solid 2px;
+    border-width: 2px;
+    border-color: rgb(88, 87, 87);
+    padding: 10px;
+   
+    height: auto;
+   
+    max-width: 1400px;
+    
+    margin: 0 auto;
+   
+    background: linear-gradient(to right, darkblue, blue, rgb(1, 42, 56));
+    border-radius: 50px;
+}
+
+.highlight11 {
+    color: #2aceda;
+
+}
+
+.highlight12 {
+    color: #2aceda;
+
+}
+
+#openings5 {
+    text-align: right;
+    margin-right: 200px;
+    color: lightblue;
+    text-decoration: underline;
+}
+
+
+
+#Backjob {
+    background: #1c1c1c;
+    color: #ffffff;
+    font-family: 'Cinzel', serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    border: 2px solid #866bce;
+   margin-left: auto;
+    margin-right: 200px;
+    padding: 10px 10px;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+width: 99px;
+text-decoration: none;
+}
+
+#Backjob:hover {
+    color: #f7e6db;
+    background-color: #2f2d70;
+    transform: scale(1.1);
+}
+
+.backend h2 {
+    margin-left: 40px;
+}
+
+.backend p {
+    text-align: right;
+    margin-right: 200px;
+   
+}
+
+.backend button {
+    margin-left: auto;
+    margin-right: 200px;
+    
+    padding: 10px 20px;
+}
+/*Tester container*/
+.WebTest {
+    border: solid 2px;
+    border-width: 2px;
+    border-color: rgb(88, 87, 87);
+    padding: 10px;
+   
+    height: auto;
+   
+    max-width: 1400px;
+    
+    margin: 0 auto;
+   
+    background: linear-gradient(to right, darkblue, blue, rgb(1, 42, 56));
+    border-radius: 50px;
+}
+
+.highlight13 {
+    color: #2aceda;
+
+}
+
+.highlight14 {
+    color: #2aceda;
+
+}
+
+#openings6 {
+    text-align: right;
+    margin-right: 200px;
+    color: lightblue;
+    text-decoration: underline;
+}
+
+
+
+#Testjob {
+    background: #1c1c1c;
+    color: #ffffff;
+    font-family: 'Cinzel', serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    border: 2px solid #866bce;
+   margin-left: auto;
+    margin-right: 200px;
+    padding: 10px 10px;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+width: 99px;
+text-decoration: none;
+}
+
+#Testjob:hover {
+    color: #f7e6db;
+    background-color: #2f2d70;
+    transform: scale(1.1);
+}
+
+.WebTest h2 {
+    margin-left: 40px;
+}
+
+.WebTest p {
+    text-align: right;
+    margin-right: 200px;
+   
+}
+
+.WebTest button {
+    margin-left: auto;
+    margin-right: 200px;
+    
+    padding: 10px 20px;
+}
+
+
+/* roblox tester */
+
+.RobTest {
+    border: solid 2px;
+    border-width: 2px;
+    border-color: rgb(88, 87, 87);
+    padding: 10px;
+   
+    height: auto;
+   
+    max-width: 1400px;
+    
+    margin: 0 auto;
+   
+    background: linear-gradient(to right, darkblue, blue, rgb(1, 42, 56));
+    border-radius: 50px;
+}
+
+.highlight15 {
+    color: #2aceda;
+
+}
+
+.highlight16 {
+    color: #2aceda;
+
+}
+
+#openings7 {
+    text-align: right;
+    margin-right: 200px;
+    color: lightblue;
+    text-decoration: underline;
+}
+
+
+
+#Robjob {
+    background: #1c1c1c;
+    color: #ffffff;
+    font-family: 'Cinzel', serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    border: 2px solid #866bce;
+   margin-left: auto;
+    margin-right: 200px;
+    padding: 10px 10px;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+width: 99px;
+text-decoration: none;
+}
+
+#Robjob:hover {
+    color: #f7e6db;
+    background-color: #2f2d70;
+    transform: scale(1.1);
+}
+
+.RobTest h2 {
+    margin-left: 40px;
+}
+
+.RobTest p {
+    text-align: right;
+    margin-right: 200px;
+   
+}
+
+.RobTest button {
+    margin-left: auto;
+    margin-right: 200px;
+    
+    padding: 10px 20px;
+}
+
+
+
+
+
 
 
 
