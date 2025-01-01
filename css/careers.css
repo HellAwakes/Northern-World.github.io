@@ -678,13 +678,24 @@ text-decoration: none;
     padding: 10px 20px;
 }
 
+.divselect{
+    background-color: blue;
+    width: 250px;
+    text-align: center;
+    height: 250px;
+    padding: 3px 1px;
+    border-radius: 35px;
+    border: solid 2px rgb(133, 17, 133);
+}
 
-
-
-
-
-
-
+.divselect button{
+    border: none;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+   
+}
 
 #footer {
     font-family: 'viking', serif;
@@ -699,9 +710,6 @@ text-decoration: none;
     width: 100%;
     
 }
-
-
-
 
 
 
