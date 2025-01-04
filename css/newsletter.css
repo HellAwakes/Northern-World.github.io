@@ -234,7 +234,28 @@ body {
     transform: scale(1.1);
     color: rgb(201, 204, 30);
 }
+#home-button{
+    background: #1c1c1c;
+    color: #bfa76f;
+    font-family: 'Cinzel', serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    border: 2px solid #8b5e3c;
+    padding: 12px 30px;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
 
+
+#home-button:hover {
+    background: rgba(0, 0, 0, 0.6); 
+    transform: scale(1.1);
+    color: rgb(216, 219, 30);
+}
 #support-button {
     background: #1c1c1c;
     color: #bfa76f;
