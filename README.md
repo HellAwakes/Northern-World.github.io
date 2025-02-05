@@ -50,4 +50,4 @@ Explore carefully! Some of the most valuable treasures are hidden in the most pe
 
 This github/website was made by:
 Matiue/GWIDT25 - Frontend - possibly backend.
-NoTime4You/Charmanderv4 - ideas/Tester.
+
